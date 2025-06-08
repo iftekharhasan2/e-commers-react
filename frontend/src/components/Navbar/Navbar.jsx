@@ -7,7 +7,7 @@ const Navbar = () => {
     <div>
 
         {/* upper navbar */}
-        <div className="bg-orange-400 text-white">
+        <div className="bg-orange-400 text-blue">
             <div className="container flex justify-between items-center py-4 px-6 ">
                 <div className="div">
                     <a href="#home" className="font-bold text-2xl sm:text-3xl flex gap-2">
